@@ -52,13 +52,11 @@ jupyter notebook
 
 - **matplotlib** (3.10.9) - Data visualization library
 - **pandas** (3.0.3) - Data manipulation and analysis
-- **numpy** (2.4.5) - Numerical computing
 
 ## 💡 Example Usage
 
 ```python
 import matplotlib.pyplot as plt
-import pandas as pd
 
 # Create sample data
 x = [1, 2, 3, 4, 5]
@@ -79,14 +77,6 @@ plt.show()
 ✅ Multi-plot layouts with subplots  
 ✅ Integration with Pandas DataFrames  
 ✅ Saving plots as image files  
-
-## 📝 License
-
-This project is open source and available for educational purposes.
-
-## 🤝 Contributing
-
-Feel free to fork, modify, and improve this repository. Contributions are welcome!
 
 ---
 
